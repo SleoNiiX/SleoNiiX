@@ -5,7 +5,6 @@ Learning by doing, breaking, fixing, and customizing.
 
 💻 Mostly working with **Java**  
 🎮 Into gaming, anime, sport, and nature  
-🧪 Currently experimenting with **Hyprland** and Linux customization
 
 
 ---
@@ -31,9 +30,9 @@ Learning by doing, breaking, fixing, and customizing.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 
-## 📚 Currently learning
+## 📚 Currently
 
-*(to be filled later... maybe more Web dev?)* 🧪
+🧪 Experimenting with **Hyprland** and Linux customization
 
 
 ---
