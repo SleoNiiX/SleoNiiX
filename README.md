@@ -1,10 +1,17 @@
-# Hey there! 👋 I'm SleoNiiX
+# 👋 Hi, I'm Anthony (SleoNiiX)
 
-🎓 First-year Computer Science student at IUT of Villeneuve-d’Ascq  
-🕹️ Passionate about code, gaming, Linux, and customizing everything I touch  
-💡 Curious and versatile — I learn fast, especially by doing
+🇫🇷 first-year Computer Science student • Curious explorer  
+Learning by doing, breaking, fixing, and customizing.
+
+💻 Mostly working with Java
+
+🎮 Into gaming, anime, sport, and nature 
+
+🧪 Currently experimenting with Hyprland and Linux customization 
+
 
 ---
+
 
 ## 🧠 Languages
 
@@ -21,7 +28,7 @@
 ![OS](https://img.shields.io/badge/OS-EndeavourOS-7F7FFF?logo=arch-linux&logoColor=white) 
 ![WM](https://img.shields.io/badge/WM-Hyprland-58E1FF?logo=hyprland&logoColor=white) 
 
-## ✨ Also know / touched
+## ✨ Also touched
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
@@ -30,25 +37,9 @@
 
 *(to be filled later... maybe more Web dev?)* 🧪
 
----
-
-## 💻 Projects
-
-I'm just starting out, but here’s what I’m working on:
-
-- 🛠️ Custom Hyprland rice
-- 🧙 My personal dotfiles
-
-More coming soon!
-
----
-
-## 📬 Let's connect
-
-- GitHub: [@SleoNiiX](https://github.com/SleoNiiX)
 
 ---
 
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=SleoNiiX&show_icons=true&theme=tokyonight)
 
-> 🚀 My goal: improve a little bit every day while having fun
+> I’m not trying to master everything — just making steady progress and enjoying the ride 🚀
