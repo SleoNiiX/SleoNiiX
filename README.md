@@ -7,8 +7,8 @@
 - Git • Linux • VS Code
 
 ## 📫 Me contacter
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true)]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SleoNiiX&show_icons=true)]
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SleoNiiX&layout=compact)
