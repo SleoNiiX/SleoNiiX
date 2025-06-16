@@ -1,16 +1,14 @@
-## Hi there 👋
+# Salut, moi c’est Anthony 👋
 
-<!--
-**SleoNiiX/SleoNiiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant BUT Info | Linux • Ricing • Dev
 
-Here are some ideas to get you started:
+## 🛠️ Tech
+- Python • C • SQL
+- Git • Linux • VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me contacter
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true)]
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact)
