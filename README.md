@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Anthony (SleoNiiX)
 
-🇫🇷 first-year Computer Science student • Curious explorer  
+🎓 First-year Computer Science student • Curious explorer • 🇫🇷 French  
 Learning by doing, breaking, fixing, and customizing.
 
-💻 Mostly working with Java
-
-🎮 Into gaming, anime, sport, and nature 
-
-🧪 Currently experimenting with Hyprland and Linux customization 
+💻 Mostly working with **Java**  
+🎮 Into gaming, anime, sport, and nature  
+🧪 Currently experimenting with **Hyprland** and Linux customization
 
 
 ---
@@ -40,6 +38,8 @@ Learning by doing, breaking, fixing, and customizing.
 
 ---
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=SleoNiiX&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SleoNiiX&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SleoNiiX&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 > I’m not trying to master everything — just making steady progress and enjoying the ride 🚀
