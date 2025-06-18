@@ -37,8 +37,7 @@ Learning by doing, breaking, fixing, and customizing.
 
 ---
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SleoNiiX&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SleoNiiX&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SleoNiiX&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 > I’m not trying to master everything — just making steady progress and enjoying the ride 🚀
